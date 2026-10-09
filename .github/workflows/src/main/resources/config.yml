@@ -1,0 +1,13 @@
+# Economy
+upgrade-start-price: 5000.0
+upgrade-price-multiplier: 1.085
+max-level: 100
+# First player initial plot random radius around world spawn
+first-plot-search-radius: 2000
+# Distance when spawning new players near an existing plot, in chunks
+nearby-min-chunks: 2
+nearby-max-chunks: 8
+# Name of the world used for plots; blank uses the default world
+plot-world: ""
+protect-claims: true
+teleport-y-offset: 1
